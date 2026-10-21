@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>晨间公众号 AI 播客</title>
+    <link>https://你的github用户名.github.io/morning-ai-podcast/</link>
+    <language>zh-CN</language>
+    <description>每天把订阅公众号日报，改成两人对话播客</description>
+    <itunes:author>我自己</itunes:author>
+    <itunes:image href="https://dylanzuck567.github.io/morning-ai-podcast/cover.png"/>
+    <itunes:category text="News"/>
+
+    <!-- 后面单集会加在这里 -->
+  </channel>
+</rss>
